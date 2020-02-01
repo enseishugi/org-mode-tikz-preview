@@ -1,7 +1,7 @@
 ;; GNU Emacs 26.3
 ;; Org package version 20191118 (downloaded from https://orgmode.org/elpa/ repository)
 
-;; Copy paste into your .init file from line 6. Make sure org package is loaded before executing this.
+;; Copy paste into your init file from line 6. Make sure org package is loaded before executing this.
 
 ;; This command creates a 'graphicsmagick' process and adds it to 'org-preview-latex-process-alist'.
 ;; It compiles the .tex file with pdflatex, then creates the .png image from the .pdf file with GraphicsMagicks. 
