@@ -1,7 +1,7 @@
 ;; GNU Emacs 26.3
 ;; Org package version 20191118 (downloaded from https://orgmode.org/elpa/ repository)
 ;;
-;; Copy paste these commands into your init file. Make sure org package is loaded before executing this.
+;; Copy-paste these commands into your init file. Make sure org package is loaded before executing them.
 
 ;; --- Copy-paste from the next line ---
 ;; This command creates a 'graphicsmagick' process and adds it to 'org-preview-latex-process-alist'.
