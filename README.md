@@ -23,7 +23,7 @@ When previewing LaTeX code created with TikZ (!) in org-mode, it couldn't be dis
 ```
 
 # A solution
-One could simply comment out the line in `/etc/ImageMagick-6/policy.xml` for .pdf files, but I didn't know whether it could put me in potential risks. So I simply added a new process to `org-preview-latex-process-alist`, using [GraphicsMagick](http://www.graphicsmagick.org/).
+One could simply comment out the line in `/etc/ImageMagick-6/policy.xml` for .pdf files, but I didn't know whether it could put me in potential risks. So I simply added a new process to `org-preview-latex-process-alist` using [GraphicsMagick](http://www.graphicsmagick.org/); commands can be found solution.el.
 
 ## How to install GraphicsMagick
 In Ubuntu 19.10:
