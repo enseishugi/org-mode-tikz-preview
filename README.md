@@ -27,4 +27,5 @@ One could simply comment out those policies in `/etc/ImageMagick-6/policy.xml` f
 
 ## How to install GraphicsMagick
 In Ubuntu 19.10:
+
 `$ sudo apt-get install graphicsmagick`
