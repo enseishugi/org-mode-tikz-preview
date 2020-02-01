@@ -27,7 +27,7 @@ One could simply comment out the line in `/etc/ImageMagick-6/policy.xml` for .pd
 
 So I simply added a new process to `org-preview-latex-process-alist` using [GraphicsMagick](http://www.graphicsmagick.org/). commands can be found in [`solution.el`](https://github.com/enseishugi/org-mode-tikz-preview/blob/96b6bf0c846fb160096a21dc1ab1b2cf3d41ad90/solution.el)
 
-[ciao](enseishugi@96b6bf0c846fb160096a21dc1ab1b2cf3d41ad90)
+[ciao](96b6bf0c846fb160096a21dc1ab1b2cf3d41ad90)
 
 ## How to install GraphicsMagick
 In Ubuntu 19.10:
