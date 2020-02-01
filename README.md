@@ -1,5 +1,5 @@
 # org-mode-tikz-preview
-Emacs org-mode is great, I love it, but every love story can't be perfect.
+Emacs org-mode is great, I love it, but every love story can't be perfect. However, it's not Emacs' fault, so... :heart:
 
 # The issue
 When previewing LaTeX code created with TikZ (!) in org-mode, it couldn't be displayed. The reason is very simple and lies in how previewing works:
