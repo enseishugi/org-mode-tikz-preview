@@ -23,7 +23,7 @@ When previewing LaTeX code created with TikZ (!) in org-mode, it couldn't be dis
 ```
 
 # A solution
-One could simply comment out the line in `/etc/ImageMagick-6/policy.xml` for .pdf files, but I didn't know whether it could put me in potential risks.
+One could simply comment out the line in `/etc/ImageMagick-6/policy.xml` for .pdf files, but I didn't know whether it could face me to potential risks.
 
 So I simply added a new process to `org-preview-latex-process-alist` using [GraphicsMagick](http://www.graphicsmagick.org/). To do it, see [`solution.el`](solution.el), it's just a couple of Emacs commands.
 
